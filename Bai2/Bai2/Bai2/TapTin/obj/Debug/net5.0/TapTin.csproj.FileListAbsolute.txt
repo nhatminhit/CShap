@@ -1,0 +1,15 @@
+D:\Learn\C#\Bai2\Bai2\Bai2\TapTin\bin\Debug\net5.0\TapTin.exe
+D:\Learn\C#\Bai2\Bai2\Bai2\TapTin\bin\Debug\net5.0\TapTin.deps.json
+D:\Learn\C#\Bai2\Bai2\Bai2\TapTin\bin\Debug\net5.0\TapTin.runtimeconfig.json
+D:\Learn\C#\Bai2\Bai2\Bai2\TapTin\bin\Debug\net5.0\TapTin.runtimeconfig.dev.json
+D:\Learn\C#\Bai2\Bai2\Bai2\TapTin\bin\Debug\net5.0\TapTin.dll
+D:\Learn\C#\Bai2\Bai2\Bai2\TapTin\bin\Debug\net5.0\ref\TapTin.dll
+D:\Learn\C#\Bai2\Bai2\Bai2\TapTin\bin\Debug\net5.0\TapTin.pdb
+D:\Learn\C#\Bai2\Bai2\Bai2\TapTin\obj\Debug\net5.0\TapTin.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learn\C#\Bai2\Bai2\Bai2\TapTin\obj\Debug\net5.0\TapTin.AssemblyInfoInputs.cache
+D:\Learn\C#\Bai2\Bai2\Bai2\TapTin\obj\Debug\net5.0\TapTin.AssemblyInfo.cs
+D:\Learn\C#\Bai2\Bai2\Bai2\TapTin\obj\Debug\net5.0\TapTin.csproj.CoreCompileInputs.cache
+D:\Learn\C#\Bai2\Bai2\Bai2\TapTin\obj\Debug\net5.0\TapTin.dll
+D:\Learn\C#\Bai2\Bai2\Bai2\TapTin\obj\Debug\net5.0\ref\TapTin.dll
+D:\Learn\C#\Bai2\Bai2\Bai2\TapTin\obj\Debug\net5.0\TapTin.pdb
+D:\Learn\C#\Bai2\Bai2\Bai2\TapTin\obj\Debug\net5.0\TapTin.genruntimeconfig.cache

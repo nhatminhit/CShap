@@ -1,0 +1,16 @@
+D:\Learn\C#\Bai1\CSharpCanBan\CSharpCanBan\CANBACHAI\bin\Debug\net5.0\CANBACHAI.exe
+D:\Learn\C#\Bai1\CSharpCanBan\CSharpCanBan\CANBACHAI\bin\Debug\net5.0\CANBACHAI.deps.json
+D:\Learn\C#\Bai1\CSharpCanBan\CSharpCanBan\CANBACHAI\bin\Debug\net5.0\CANBACHAI.runtimeconfig.json
+D:\Learn\C#\Bai1\CSharpCanBan\CSharpCanBan\CANBACHAI\bin\Debug\net5.0\CANBACHAI.runtimeconfig.dev.json
+D:\Learn\C#\Bai1\CSharpCanBan\CSharpCanBan\CANBACHAI\bin\Debug\net5.0\CANBACHAI.dll
+D:\Learn\C#\Bai1\CSharpCanBan\CSharpCanBan\CANBACHAI\bin\Debug\net5.0\ref\CANBACHAI.dll
+D:\Learn\C#\Bai1\CSharpCanBan\CSharpCanBan\CANBACHAI\bin\Debug\net5.0\CANBACHAI.pdb
+D:\Learn\C#\Bai1\CSharpCanBan\CSharpCanBan\CANBACHAI\obj\Debug\net5.0\CANBACHAI.csproj.AssemblyReference.cache
+D:\Learn\C#\Bai1\CSharpCanBan\CSharpCanBan\CANBACHAI\obj\Debug\net5.0\CANBACHAI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learn\C#\Bai1\CSharpCanBan\CSharpCanBan\CANBACHAI\obj\Debug\net5.0\CANBACHAI.AssemblyInfoInputs.cache
+D:\Learn\C#\Bai1\CSharpCanBan\CSharpCanBan\CANBACHAI\obj\Debug\net5.0\CANBACHAI.AssemblyInfo.cs
+D:\Learn\C#\Bai1\CSharpCanBan\CSharpCanBan\CANBACHAI\obj\Debug\net5.0\CANBACHAI.csproj.CoreCompileInputs.cache
+D:\Learn\C#\Bai1\CSharpCanBan\CSharpCanBan\CANBACHAI\obj\Debug\net5.0\CANBACHAI.dll
+D:\Learn\C#\Bai1\CSharpCanBan\CSharpCanBan\CANBACHAI\obj\Debug\net5.0\ref\CANBACHAI.dll
+D:\Learn\C#\Bai1\CSharpCanBan\CSharpCanBan\CANBACHAI\obj\Debug\net5.0\CANBACHAI.pdb
+D:\Learn\C#\Bai1\CSharpCanBan\CSharpCanBan\CANBACHAI\obj\Debug\net5.0\CANBACHAI.genruntimeconfig.cache

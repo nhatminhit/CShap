@@ -1,0 +1,16 @@
+D:\Learn\C#\bai3\BTVN_Tuan3\BTVN_Tuan3\obj\Debug\net5.0\BTVN_Tuan3.csproj.AssemblyReference.cache
+D:\Learn\C#\bai3\BTVN_Tuan3\BTVN_Tuan3\obj\Debug\net5.0\BTVN_Tuan3.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learn\C#\bai3\BTVN_Tuan3\BTVN_Tuan3\obj\Debug\net5.0\BTVN_Tuan3.AssemblyInfoInputs.cache
+D:\Learn\C#\bai3\BTVN_Tuan3\BTVN_Tuan3\obj\Debug\net5.0\BTVN_Tuan3.AssemblyInfo.cs
+D:\Learn\C#\bai3\BTVN_Tuan3\BTVN_Tuan3\obj\Debug\net5.0\BTVN_Tuan3.csproj.CoreCompileInputs.cache
+D:\Learn\C#\bai3\BTVN_Tuan3\BTVN_Tuan3\bin\Debug\net5.0\BTVN_Tuan3.exe
+D:\Learn\C#\bai3\BTVN_Tuan3\BTVN_Tuan3\bin\Debug\net5.0\BTVN_Tuan3.deps.json
+D:\Learn\C#\bai3\BTVN_Tuan3\BTVN_Tuan3\bin\Debug\net5.0\BTVN_Tuan3.runtimeconfig.json
+D:\Learn\C#\bai3\BTVN_Tuan3\BTVN_Tuan3\bin\Debug\net5.0\BTVN_Tuan3.runtimeconfig.dev.json
+D:\Learn\C#\bai3\BTVN_Tuan3\BTVN_Tuan3\bin\Debug\net5.0\BTVN_Tuan3.dll
+D:\Learn\C#\bai3\BTVN_Tuan3\BTVN_Tuan3\bin\Debug\net5.0\ref\BTVN_Tuan3.dll
+D:\Learn\C#\bai3\BTVN_Tuan3\BTVN_Tuan3\bin\Debug\net5.0\BTVN_Tuan3.pdb
+D:\Learn\C#\bai3\BTVN_Tuan3\BTVN_Tuan3\obj\Debug\net5.0\BTVN_Tuan3.dll
+D:\Learn\C#\bai3\BTVN_Tuan3\BTVN_Tuan3\obj\Debug\net5.0\ref\BTVN_Tuan3.dll
+D:\Learn\C#\bai3\BTVN_Tuan3\BTVN_Tuan3\obj\Debug\net5.0\BTVN_Tuan3.pdb
+D:\Learn\C#\bai3\BTVN_Tuan3\BTVN_Tuan3\obj\Debug\net5.0\BTVN_Tuan3.genruntimeconfig.cache

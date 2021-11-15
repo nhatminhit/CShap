@@ -1,0 +1,16 @@
+D:\Learn\C#\OnTap\ontap2\bin\Debug\net5.0\ontap2.exe
+D:\Learn\C#\OnTap\ontap2\bin\Debug\net5.0\ontap2.deps.json
+D:\Learn\C#\OnTap\ontap2\bin\Debug\net5.0\ontap2.runtimeconfig.json
+D:\Learn\C#\OnTap\ontap2\bin\Debug\net5.0\ontap2.runtimeconfig.dev.json
+D:\Learn\C#\OnTap\ontap2\bin\Debug\net5.0\ontap2.dll
+D:\Learn\C#\OnTap\ontap2\bin\Debug\net5.0\ref\ontap2.dll
+D:\Learn\C#\OnTap\ontap2\bin\Debug\net5.0\ontap2.pdb
+D:\Learn\C#\OnTap\ontap2\obj\Debug\net5.0\ontap2.csproj.AssemblyReference.cache
+D:\Learn\C#\OnTap\ontap2\obj\Debug\net5.0\ontap2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learn\C#\OnTap\ontap2\obj\Debug\net5.0\ontap2.AssemblyInfoInputs.cache
+D:\Learn\C#\OnTap\ontap2\obj\Debug\net5.0\ontap2.AssemblyInfo.cs
+D:\Learn\C#\OnTap\ontap2\obj\Debug\net5.0\ontap2.csproj.CoreCompileInputs.cache
+D:\Learn\C#\OnTap\ontap2\obj\Debug\net5.0\ontap2.dll
+D:\Learn\C#\OnTap\ontap2\obj\Debug\net5.0\ref\ontap2.dll
+D:\Learn\C#\OnTap\ontap2\obj\Debug\net5.0\ontap2.pdb
+D:\Learn\C#\OnTap\ontap2\obj\Debug\net5.0\ontap2.genruntimeconfig.cache

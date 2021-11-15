@@ -1,0 +1,16 @@
+D:\Learn\C#\Bai5\BTTuan5\Bai1-ThucHanh\Bai1-ThucHanh\bin\Debug\net5.0\Bai1-ThucHanh.exe
+D:\Learn\C#\Bai5\BTTuan5\Bai1-ThucHanh\Bai1-ThucHanh\bin\Debug\net5.0\Bai1-ThucHanh.deps.json
+D:\Learn\C#\Bai5\BTTuan5\Bai1-ThucHanh\Bai1-ThucHanh\bin\Debug\net5.0\Bai1-ThucHanh.runtimeconfig.json
+D:\Learn\C#\Bai5\BTTuan5\Bai1-ThucHanh\Bai1-ThucHanh\bin\Debug\net5.0\Bai1-ThucHanh.runtimeconfig.dev.json
+D:\Learn\C#\Bai5\BTTuan5\Bai1-ThucHanh\Bai1-ThucHanh\bin\Debug\net5.0\Bai1-ThucHanh.dll
+D:\Learn\C#\Bai5\BTTuan5\Bai1-ThucHanh\Bai1-ThucHanh\bin\Debug\net5.0\ref\Bai1-ThucHanh.dll
+D:\Learn\C#\Bai5\BTTuan5\Bai1-ThucHanh\Bai1-ThucHanh\bin\Debug\net5.0\Bai1-ThucHanh.pdb
+D:\Learn\C#\Bai5\BTTuan5\Bai1-ThucHanh\Bai1-ThucHanh\obj\Debug\net5.0\Bai1-ThucHanh.csproj.AssemblyReference.cache
+D:\Learn\C#\Bai5\BTTuan5\Bai1-ThucHanh\Bai1-ThucHanh\obj\Debug\net5.0\Bai1-ThucHanh.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learn\C#\Bai5\BTTuan5\Bai1-ThucHanh\Bai1-ThucHanh\obj\Debug\net5.0\Bai1-ThucHanh.AssemblyInfoInputs.cache
+D:\Learn\C#\Bai5\BTTuan5\Bai1-ThucHanh\Bai1-ThucHanh\obj\Debug\net5.0\Bai1-ThucHanh.AssemblyInfo.cs
+D:\Learn\C#\Bai5\BTTuan5\Bai1-ThucHanh\Bai1-ThucHanh\obj\Debug\net5.0\Bai1-ThucHanh.csproj.CoreCompileInputs.cache
+D:\Learn\C#\Bai5\BTTuan5\Bai1-ThucHanh\Bai1-ThucHanh\obj\Debug\net5.0\Bai1-ThucHanh.dll
+D:\Learn\C#\Bai5\BTTuan5\Bai1-ThucHanh\Bai1-ThucHanh\obj\Debug\net5.0\ref\Bai1-ThucHanh.dll
+D:\Learn\C#\Bai5\BTTuan5\Bai1-ThucHanh\Bai1-ThucHanh\obj\Debug\net5.0\Bai1-ThucHanh.pdb
+D:\Learn\C#\Bai5\BTTuan5\Bai1-ThucHanh\Bai1-ThucHanh\obj\Debug\net5.0\Bai1-ThucHanh.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+D:\Learn\C#\Bai6\btaptrclop\btaptrclop\obj\Debug\net5.0\btaptrclop.csproj.AssemblyReference.cache
+D:\Learn\C#\Bai6\btaptrclop\btaptrclop\obj\Debug\net5.0\btaptrclop.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learn\C#\Bai6\btaptrclop\btaptrclop\obj\Debug\net5.0\btaptrclop.AssemblyInfoInputs.cache
+D:\Learn\C#\Bai6\btaptrclop\btaptrclop\obj\Debug\net5.0\btaptrclop.AssemblyInfo.cs
+D:\Learn\C#\Bai6\btaptrclop\btaptrclop\obj\Debug\net5.0\btaptrclop.csproj.CoreCompileInputs.cache
+D:\Learn\C#\Bai6\btaptrclop\btaptrclop\bin\Debug\net5.0\btaptrclop.exe
+D:\Learn\C#\Bai6\btaptrclop\btaptrclop\bin\Debug\net5.0\btaptrclop.deps.json
+D:\Learn\C#\Bai6\btaptrclop\btaptrclop\bin\Debug\net5.0\btaptrclop.runtimeconfig.json
+D:\Learn\C#\Bai6\btaptrclop\btaptrclop\bin\Debug\net5.0\btaptrclop.runtimeconfig.dev.json
+D:\Learn\C#\Bai6\btaptrclop\btaptrclop\bin\Debug\net5.0\btaptrclop.dll
+D:\Learn\C#\Bai6\btaptrclop\btaptrclop\bin\Debug\net5.0\ref\btaptrclop.dll
+D:\Learn\C#\Bai6\btaptrclop\btaptrclop\bin\Debug\net5.0\btaptrclop.pdb
+D:\Learn\C#\Bai6\btaptrclop\btaptrclop\obj\Debug\net5.0\btaptrclop.dll
+D:\Learn\C#\Bai6\btaptrclop\btaptrclop\obj\Debug\net5.0\ref\btaptrclop.dll
+D:\Learn\C#\Bai6\btaptrclop\btaptrclop\obj\Debug\net5.0\btaptrclop.pdb
+D:\Learn\C#\Bai6\btaptrclop\btaptrclop\obj\Debug\net5.0\btaptrclop.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+D:\Learn\C#\Bai2\Bai2\Bai2\PhuongThuc\bin\Debug\net5.0\PhuongThuc.exe
+D:\Learn\C#\Bai2\Bai2\Bai2\PhuongThuc\bin\Debug\net5.0\PhuongThuc.deps.json
+D:\Learn\C#\Bai2\Bai2\Bai2\PhuongThuc\bin\Debug\net5.0\PhuongThuc.runtimeconfig.json
+D:\Learn\C#\Bai2\Bai2\Bai2\PhuongThuc\bin\Debug\net5.0\PhuongThuc.runtimeconfig.dev.json
+D:\Learn\C#\Bai2\Bai2\Bai2\PhuongThuc\bin\Debug\net5.0\PhuongThuc.dll
+D:\Learn\C#\Bai2\Bai2\Bai2\PhuongThuc\bin\Debug\net5.0\ref\PhuongThuc.dll
+D:\Learn\C#\Bai2\Bai2\Bai2\PhuongThuc\bin\Debug\net5.0\PhuongThuc.pdb
+D:\Learn\C#\Bai2\Bai2\Bai2\PhuongThuc\obj\Debug\net5.0\PhuongThuc.csproj.AssemblyReference.cache
+D:\Learn\C#\Bai2\Bai2\Bai2\PhuongThuc\obj\Debug\net5.0\PhuongThuc.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learn\C#\Bai2\Bai2\Bai2\PhuongThuc\obj\Debug\net5.0\PhuongThuc.AssemblyInfoInputs.cache
+D:\Learn\C#\Bai2\Bai2\Bai2\PhuongThuc\obj\Debug\net5.0\PhuongThuc.AssemblyInfo.cs
+D:\Learn\C#\Bai2\Bai2\Bai2\PhuongThuc\obj\Debug\net5.0\PhuongThuc.csproj.CoreCompileInputs.cache
+D:\Learn\C#\Bai2\Bai2\Bai2\PhuongThuc\obj\Debug\net5.0\PhuongThuc.dll
+D:\Learn\C#\Bai2\Bai2\Bai2\PhuongThuc\obj\Debug\net5.0\ref\PhuongThuc.dll
+D:\Learn\C#\Bai2\Bai2\Bai2\PhuongThuc\obj\Debug\net5.0\PhuongThuc.pdb
+D:\Learn\C#\Bai2\Bai2\Bai2\PhuongThuc\obj\Debug\net5.0\PhuongThuc.genruntimeconfig.cache

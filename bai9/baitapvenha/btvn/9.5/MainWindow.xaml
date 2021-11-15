@@ -1,0 +1,93 @@
+﻿<Window x:Class="_9._5.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:_9._5"
+        mc:Ignorable="d"
+       Title="Phần Mềm Chọn Game" Height="560" Width="560">
+    <Grid>
+        <StackPanel
+            x:Name="lbItem"
+            Orientation="Vertical"
+            Margin="30,28,30,46">
+            <StackPanel
+                Orientation="Horizontal">
+                <CheckBox />
+                <Image
+                    Source="/icon4.png"
+                    Width="60"
+                    Height="60" />
+                <Label
+                    Content="Fifa Online 4"
+                    FontSize="15" />
+            </StackPanel>
+            <StackPanel
+                Orientation="Horizontal">
+                <CheckBox />
+                <Image
+                    Source="/icon1.png"
+                    Width="60"
+                    Height="60" />
+                <Label
+                    Content="Fifa Online 4 Mobile"
+                    FontSize="15" />
+            </StackPanel>
+            <StackPanel
+                Orientation="Horizontal">
+                <CheckBox />
+                <Image
+                    Source="/icon2.png"
+                    Width="60"
+                    Height="60" />
+                <Label
+                    Content="Blade And Soul"
+                    FontSize="15" />
+            </StackPanel>
+            <StackPanel
+                Orientation="Horizontal">
+                <CheckBox />
+                <Image
+                    Source="/icon6.png"
+                    Width="60"
+                    Height="60" />
+                <Label
+                    Content="Liên Quân Mobile"
+                    FontSize="15" />
+            </StackPanel>
+            <StackPanel
+                Orientation="Horizontal">
+                <CheckBox />
+                <Image
+                    Source="/icon5.png"
+                    Width="60"
+                    Height="60" />
+                <Label
+                    Content="Free Fire"
+                    FontSize="15" />
+            </StackPanel>
+            <StackPanel
+                Orientation="Horizontal">
+                <CheckBox />
+                <Image
+                    Source="/icon3.png"
+                    Width="60"
+                    Height="60" />
+                <Label
+                    Content="Liên Minh Huyền Thoại"
+                    FontSize="15" />
+            </StackPanel>
+        </StackPanel>
+        <Button 
+            x:Name="btnGoiDoUong"
+            Content="Gọi đồ uống" 
+            FontSize="15"
+            HorizontalAlignment="Center" 
+            Height="30" 
+            Margin="0,444,0,0" 
+            VerticalAlignment="Top" 
+            Width="118"
+            Click="setOnClick_btnGoiDoUong" />
+
+    </Grid>
+</Window>

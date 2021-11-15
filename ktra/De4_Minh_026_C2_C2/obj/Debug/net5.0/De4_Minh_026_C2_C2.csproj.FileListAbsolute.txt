@@ -1,0 +1,16 @@
+D:\Learn\C#\ktra\De4_Minh_026_C2_C2\obj\Debug\net5.0\De4_Minh_026_C2_C2.csproj.AssemblyReference.cache
+D:\Learn\C#\ktra\De4_Minh_026_C2_C2\obj\Debug\net5.0\De4_Minh_026_C2_C2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learn\C#\ktra\De4_Minh_026_C2_C2\obj\Debug\net5.0\De4_Minh_026_C2_C2.AssemblyInfoInputs.cache
+D:\Learn\C#\ktra\De4_Minh_026_C2_C2\obj\Debug\net5.0\De4_Minh_026_C2_C2.AssemblyInfo.cs
+D:\Learn\C#\ktra\De4_Minh_026_C2_C2\obj\Debug\net5.0\De4_Minh_026_C2_C2.csproj.CoreCompileInputs.cache
+D:\Learn\C#\ktra\De4_Minh_026_C2_C2\bin\Debug\net5.0\De4_Minh_026_C2_C2.exe
+D:\Learn\C#\ktra\De4_Minh_026_C2_C2\bin\Debug\net5.0\De4_Minh_026_C2_C2.deps.json
+D:\Learn\C#\ktra\De4_Minh_026_C2_C2\bin\Debug\net5.0\De4_Minh_026_C2_C2.runtimeconfig.json
+D:\Learn\C#\ktra\De4_Minh_026_C2_C2\bin\Debug\net5.0\De4_Minh_026_C2_C2.runtimeconfig.dev.json
+D:\Learn\C#\ktra\De4_Minh_026_C2_C2\bin\Debug\net5.0\De4_Minh_026_C2_C2.dll
+D:\Learn\C#\ktra\De4_Minh_026_C2_C2\bin\Debug\net5.0\ref\De4_Minh_026_C2_C2.dll
+D:\Learn\C#\ktra\De4_Minh_026_C2_C2\bin\Debug\net5.0\De4_Minh_026_C2_C2.pdb
+D:\Learn\C#\ktra\De4_Minh_026_C2_C2\obj\Debug\net5.0\De4_Minh_026_C2_C2.dll
+D:\Learn\C#\ktra\De4_Minh_026_C2_C2\obj\Debug\net5.0\ref\De4_Minh_026_C2_C2.dll
+D:\Learn\C#\ktra\De4_Minh_026_C2_C2\obj\Debug\net5.0\De4_Minh_026_C2_C2.pdb
+D:\Learn\C#\ktra\De4_Minh_026_C2_C2\obj\Debug\net5.0\De4_Minh_026_C2_C2.genruntimeconfig.cache

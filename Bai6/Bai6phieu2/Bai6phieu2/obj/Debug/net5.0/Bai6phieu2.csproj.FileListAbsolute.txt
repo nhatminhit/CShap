@@ -1,0 +1,16 @@
+D:\Learn\C#\Bai6\Bai6phieu2\Bai6phieu2\bin\Debug\net5.0\Bai6phieu2.exe
+D:\Learn\C#\Bai6\Bai6phieu2\Bai6phieu2\bin\Debug\net5.0\Bai6phieu2.deps.json
+D:\Learn\C#\Bai6\Bai6phieu2\Bai6phieu2\bin\Debug\net5.0\Bai6phieu2.runtimeconfig.json
+D:\Learn\C#\Bai6\Bai6phieu2\Bai6phieu2\bin\Debug\net5.0\Bai6phieu2.runtimeconfig.dev.json
+D:\Learn\C#\Bai6\Bai6phieu2\Bai6phieu2\bin\Debug\net5.0\Bai6phieu2.dll
+D:\Learn\C#\Bai6\Bai6phieu2\Bai6phieu2\bin\Debug\net5.0\ref\Bai6phieu2.dll
+D:\Learn\C#\Bai6\Bai6phieu2\Bai6phieu2\bin\Debug\net5.0\Bai6phieu2.pdb
+D:\Learn\C#\Bai6\Bai6phieu2\Bai6phieu2\obj\Debug\net5.0\Bai6phieu2.csproj.AssemblyReference.cache
+D:\Learn\C#\Bai6\Bai6phieu2\Bai6phieu2\obj\Debug\net5.0\Bai6phieu2.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learn\C#\Bai6\Bai6phieu2\Bai6phieu2\obj\Debug\net5.0\Bai6phieu2.AssemblyInfoInputs.cache
+D:\Learn\C#\Bai6\Bai6phieu2\Bai6phieu2\obj\Debug\net5.0\Bai6phieu2.AssemblyInfo.cs
+D:\Learn\C#\Bai6\Bai6phieu2\Bai6phieu2\obj\Debug\net5.0\Bai6phieu2.csproj.CoreCompileInputs.cache
+D:\Learn\C#\Bai6\Bai6phieu2\Bai6phieu2\obj\Debug\net5.0\Bai6phieu2.dll
+D:\Learn\C#\Bai6\Bai6phieu2\Bai6phieu2\obj\Debug\net5.0\ref\Bai6phieu2.dll
+D:\Learn\C#\Bai6\Bai6phieu2\Bai6phieu2\obj\Debug\net5.0\Bai6phieu2.pdb
+D:\Learn\C#\Bai6\Bai6phieu2\Bai6phieu2\obj\Debug\net5.0\Bai6phieu2.genruntimeconfig.cache

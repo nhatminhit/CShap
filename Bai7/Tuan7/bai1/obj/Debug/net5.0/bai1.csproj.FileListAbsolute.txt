@@ -1,0 +1,16 @@
+D:\Learn\C#\Bai7\Tuan7\bai1\bin\Debug\net5.0\bai1.exe
+D:\Learn\C#\Bai7\Tuan7\bai1\bin\Debug\net5.0\bai1.deps.json
+D:\Learn\C#\Bai7\Tuan7\bai1\bin\Debug\net5.0\bai1.runtimeconfig.json
+D:\Learn\C#\Bai7\Tuan7\bai1\bin\Debug\net5.0\bai1.runtimeconfig.dev.json
+D:\Learn\C#\Bai7\Tuan7\bai1\bin\Debug\net5.0\bai1.dll
+D:\Learn\C#\Bai7\Tuan7\bai1\bin\Debug\net5.0\ref\bai1.dll
+D:\Learn\C#\Bai7\Tuan7\bai1\bin\Debug\net5.0\bai1.pdb
+D:\Learn\C#\Bai7\Tuan7\bai1\obj\Debug\net5.0\bai1.csproj.AssemblyReference.cache
+D:\Learn\C#\Bai7\Tuan7\bai1\obj\Debug\net5.0\bai1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learn\C#\Bai7\Tuan7\bai1\obj\Debug\net5.0\bai1.AssemblyInfoInputs.cache
+D:\Learn\C#\Bai7\Tuan7\bai1\obj\Debug\net5.0\bai1.AssemblyInfo.cs
+D:\Learn\C#\Bai7\Tuan7\bai1\obj\Debug\net5.0\bai1.csproj.CoreCompileInputs.cache
+D:\Learn\C#\Bai7\Tuan7\bai1\obj\Debug\net5.0\bai1.dll
+D:\Learn\C#\Bai7\Tuan7\bai1\obj\Debug\net5.0\ref\bai1.dll
+D:\Learn\C#\Bai7\Tuan7\bai1\obj\Debug\net5.0\bai1.pdb
+D:\Learn\C#\Bai7\Tuan7\bai1\obj\Debug\net5.0\bai1.genruntimeconfig.cache

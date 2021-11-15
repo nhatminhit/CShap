@@ -1,0 +1,16 @@
+D:\Learn\C#\Bai2\Bai2\Bai2\DANHSACH\bin\Debug\net5.0\DANHSACH.exe
+D:\Learn\C#\Bai2\Bai2\Bai2\DANHSACH\bin\Debug\net5.0\DANHSACH.deps.json
+D:\Learn\C#\Bai2\Bai2\Bai2\DANHSACH\bin\Debug\net5.0\DANHSACH.runtimeconfig.json
+D:\Learn\C#\Bai2\Bai2\Bai2\DANHSACH\bin\Debug\net5.0\DANHSACH.runtimeconfig.dev.json
+D:\Learn\C#\Bai2\Bai2\Bai2\DANHSACH\bin\Debug\net5.0\DANHSACH.dll
+D:\Learn\C#\Bai2\Bai2\Bai2\DANHSACH\bin\Debug\net5.0\ref\DANHSACH.dll
+D:\Learn\C#\Bai2\Bai2\Bai2\DANHSACH\bin\Debug\net5.0\DANHSACH.pdb
+D:\Learn\C#\Bai2\Bai2\Bai2\DANHSACH\obj\Debug\net5.0\DANHSACH.csproj.AssemblyReference.cache
+D:\Learn\C#\Bai2\Bai2\Bai2\DANHSACH\obj\Debug\net5.0\DANHSACH.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learn\C#\Bai2\Bai2\Bai2\DANHSACH\obj\Debug\net5.0\DANHSACH.AssemblyInfoInputs.cache
+D:\Learn\C#\Bai2\Bai2\Bai2\DANHSACH\obj\Debug\net5.0\DANHSACH.AssemblyInfo.cs
+D:\Learn\C#\Bai2\Bai2\Bai2\DANHSACH\obj\Debug\net5.0\DANHSACH.csproj.CoreCompileInputs.cache
+D:\Learn\C#\Bai2\Bai2\Bai2\DANHSACH\obj\Debug\net5.0\DANHSACH.dll
+D:\Learn\C#\Bai2\Bai2\Bai2\DANHSACH\obj\Debug\net5.0\ref\DANHSACH.dll
+D:\Learn\C#\Bai2\Bai2\Bai2\DANHSACH\obj\Debug\net5.0\DANHSACH.pdb
+D:\Learn\C#\Bai2\Bai2\Bai2\DANHSACH\obj\Debug\net5.0\DANHSACH.genruntimeconfig.cache

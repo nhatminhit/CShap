@@ -1,0 +1,16 @@
+D:\Learn\C#\Bai1\CSharpCanBan\CSharpCanBan\CSharpCanBan\bin\Debug\net5.0\CSharpCanBan.exe
+D:\Learn\C#\Bai1\CSharpCanBan\CSharpCanBan\CSharpCanBan\bin\Debug\net5.0\CSharpCanBan.deps.json
+D:\Learn\C#\Bai1\CSharpCanBan\CSharpCanBan\CSharpCanBan\bin\Debug\net5.0\CSharpCanBan.runtimeconfig.json
+D:\Learn\C#\Bai1\CSharpCanBan\CSharpCanBan\CSharpCanBan\bin\Debug\net5.0\CSharpCanBan.runtimeconfig.dev.json
+D:\Learn\C#\Bai1\CSharpCanBan\CSharpCanBan\CSharpCanBan\bin\Debug\net5.0\CSharpCanBan.dll
+D:\Learn\C#\Bai1\CSharpCanBan\CSharpCanBan\CSharpCanBan\bin\Debug\net5.0\ref\CSharpCanBan.dll
+D:\Learn\C#\Bai1\CSharpCanBan\CSharpCanBan\CSharpCanBan\bin\Debug\net5.0\CSharpCanBan.pdb
+D:\Learn\C#\Bai1\CSharpCanBan\CSharpCanBan\CSharpCanBan\obj\Debug\net5.0\CSharpCanBan.csproj.AssemblyReference.cache
+D:\Learn\C#\Bai1\CSharpCanBan\CSharpCanBan\CSharpCanBan\obj\Debug\net5.0\CSharpCanBan.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learn\C#\Bai1\CSharpCanBan\CSharpCanBan\CSharpCanBan\obj\Debug\net5.0\CSharpCanBan.AssemblyInfoInputs.cache
+D:\Learn\C#\Bai1\CSharpCanBan\CSharpCanBan\CSharpCanBan\obj\Debug\net5.0\CSharpCanBan.AssemblyInfo.cs
+D:\Learn\C#\Bai1\CSharpCanBan\CSharpCanBan\CSharpCanBan\obj\Debug\net5.0\CSharpCanBan.csproj.CoreCompileInputs.cache
+D:\Learn\C#\Bai1\CSharpCanBan\CSharpCanBan\CSharpCanBan\obj\Debug\net5.0\CSharpCanBan.dll
+D:\Learn\C#\Bai1\CSharpCanBan\CSharpCanBan\CSharpCanBan\obj\Debug\net5.0\ref\CSharpCanBan.dll
+D:\Learn\C#\Bai1\CSharpCanBan\CSharpCanBan\CSharpCanBan\obj\Debug\net5.0\CSharpCanBan.pdb
+D:\Learn\C#\Bai1\CSharpCanBan\CSharpCanBan\CSharpCanBan\obj\Debug\net5.0\CSharpCanBan.genruntimeconfig.cache

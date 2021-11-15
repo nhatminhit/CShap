@@ -1,0 +1,16 @@
+D:\Learn\C#\Bai2\Bai2\Bai2\MANG\bin\Debug\net5.0\MANG.exe
+D:\Learn\C#\Bai2\Bai2\Bai2\MANG\bin\Debug\net5.0\MANG.deps.json
+D:\Learn\C#\Bai2\Bai2\Bai2\MANG\bin\Debug\net5.0\MANG.runtimeconfig.json
+D:\Learn\C#\Bai2\Bai2\Bai2\MANG\bin\Debug\net5.0\MANG.runtimeconfig.dev.json
+D:\Learn\C#\Bai2\Bai2\Bai2\MANG\bin\Debug\net5.0\MANG.dll
+D:\Learn\C#\Bai2\Bai2\Bai2\MANG\bin\Debug\net5.0\ref\MANG.dll
+D:\Learn\C#\Bai2\Bai2\Bai2\MANG\bin\Debug\net5.0\MANG.pdb
+D:\Learn\C#\Bai2\Bai2\Bai2\MANG\obj\Debug\net5.0\MANG.csproj.AssemblyReference.cache
+D:\Learn\C#\Bai2\Bai2\Bai2\MANG\obj\Debug\net5.0\MANG.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learn\C#\Bai2\Bai2\Bai2\MANG\obj\Debug\net5.0\MANG.AssemblyInfoInputs.cache
+D:\Learn\C#\Bai2\Bai2\Bai2\MANG\obj\Debug\net5.0\MANG.AssemblyInfo.cs
+D:\Learn\C#\Bai2\Bai2\Bai2\MANG\obj\Debug\net5.0\MANG.csproj.CoreCompileInputs.cache
+D:\Learn\C#\Bai2\Bai2\Bai2\MANG\obj\Debug\net5.0\MANG.dll
+D:\Learn\C#\Bai2\Bai2\Bai2\MANG\obj\Debug\net5.0\ref\MANG.dll
+D:\Learn\C#\Bai2\Bai2\Bai2\MANG\obj\Debug\net5.0\MANG.pdb
+D:\Learn\C#\Bai2\Bai2\Bai2\MANG\obj\Debug\net5.0\MANG.genruntimeconfig.cache

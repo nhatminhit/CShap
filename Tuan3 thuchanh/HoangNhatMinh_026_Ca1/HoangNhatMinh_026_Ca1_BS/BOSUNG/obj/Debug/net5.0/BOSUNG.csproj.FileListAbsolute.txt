@@ -1,0 +1,16 @@
+D:\Learn\C#\Tuan3 thuchanh\HoangNhatMinh_026_Ca1\HoangNhatMinh_026_Ca1_BS\BOSUNG\bin\Debug\net5.0\BOSUNG.exe
+D:\Learn\C#\Tuan3 thuchanh\HoangNhatMinh_026_Ca1\HoangNhatMinh_026_Ca1_BS\BOSUNG\bin\Debug\net5.0\BOSUNG.deps.json
+D:\Learn\C#\Tuan3 thuchanh\HoangNhatMinh_026_Ca1\HoangNhatMinh_026_Ca1_BS\BOSUNG\bin\Debug\net5.0\BOSUNG.runtimeconfig.json
+D:\Learn\C#\Tuan3 thuchanh\HoangNhatMinh_026_Ca1\HoangNhatMinh_026_Ca1_BS\BOSUNG\bin\Debug\net5.0\BOSUNG.runtimeconfig.dev.json
+D:\Learn\C#\Tuan3 thuchanh\HoangNhatMinh_026_Ca1\HoangNhatMinh_026_Ca1_BS\BOSUNG\bin\Debug\net5.0\BOSUNG.dll
+D:\Learn\C#\Tuan3 thuchanh\HoangNhatMinh_026_Ca1\HoangNhatMinh_026_Ca1_BS\BOSUNG\bin\Debug\net5.0\ref\BOSUNG.dll
+D:\Learn\C#\Tuan3 thuchanh\HoangNhatMinh_026_Ca1\HoangNhatMinh_026_Ca1_BS\BOSUNG\bin\Debug\net5.0\BOSUNG.pdb
+D:\Learn\C#\Tuan3 thuchanh\HoangNhatMinh_026_Ca1\HoangNhatMinh_026_Ca1_BS\BOSUNG\obj\Debug\net5.0\BOSUNG.csproj.AssemblyReference.cache
+D:\Learn\C#\Tuan3 thuchanh\HoangNhatMinh_026_Ca1\HoangNhatMinh_026_Ca1_BS\BOSUNG\obj\Debug\net5.0\BOSUNG.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learn\C#\Tuan3 thuchanh\HoangNhatMinh_026_Ca1\HoangNhatMinh_026_Ca1_BS\BOSUNG\obj\Debug\net5.0\BOSUNG.AssemblyInfoInputs.cache
+D:\Learn\C#\Tuan3 thuchanh\HoangNhatMinh_026_Ca1\HoangNhatMinh_026_Ca1_BS\BOSUNG\obj\Debug\net5.0\BOSUNG.AssemblyInfo.cs
+D:\Learn\C#\Tuan3 thuchanh\HoangNhatMinh_026_Ca1\HoangNhatMinh_026_Ca1_BS\BOSUNG\obj\Debug\net5.0\BOSUNG.csproj.CoreCompileInputs.cache
+D:\Learn\C#\Tuan3 thuchanh\HoangNhatMinh_026_Ca1\HoangNhatMinh_026_Ca1_BS\BOSUNG\obj\Debug\net5.0\BOSUNG.dll
+D:\Learn\C#\Tuan3 thuchanh\HoangNhatMinh_026_Ca1\HoangNhatMinh_026_Ca1_BS\BOSUNG\obj\Debug\net5.0\ref\BOSUNG.dll
+D:\Learn\C#\Tuan3 thuchanh\HoangNhatMinh_026_Ca1\HoangNhatMinh_026_Ca1_BS\BOSUNG\obj\Debug\net5.0\BOSUNG.pdb
+D:\Learn\C#\Tuan3 thuchanh\HoangNhatMinh_026_Ca1\HoangNhatMinh_026_Ca1_BS\BOSUNG\obj\Debug\net5.0\BOSUNG.genruntimeconfig.cache

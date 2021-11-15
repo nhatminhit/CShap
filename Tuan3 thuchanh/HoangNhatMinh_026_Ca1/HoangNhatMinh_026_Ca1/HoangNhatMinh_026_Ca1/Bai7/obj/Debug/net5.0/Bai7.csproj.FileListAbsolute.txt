@@ -1,0 +1,16 @@
+D:\Learn\C#\Tuan3 thuchanh\HoangNhatMinh_026_Ca1\HoangNhatMinh_026_Ca1\Bai7\bin\Debug\net5.0\Bai7.exe
+D:\Learn\C#\Tuan3 thuchanh\HoangNhatMinh_026_Ca1\HoangNhatMinh_026_Ca1\Bai7\bin\Debug\net5.0\Bai7.deps.json
+D:\Learn\C#\Tuan3 thuchanh\HoangNhatMinh_026_Ca1\HoangNhatMinh_026_Ca1\Bai7\bin\Debug\net5.0\Bai7.runtimeconfig.json
+D:\Learn\C#\Tuan3 thuchanh\HoangNhatMinh_026_Ca1\HoangNhatMinh_026_Ca1\Bai7\bin\Debug\net5.0\Bai7.runtimeconfig.dev.json
+D:\Learn\C#\Tuan3 thuchanh\HoangNhatMinh_026_Ca1\HoangNhatMinh_026_Ca1\Bai7\bin\Debug\net5.0\Bai7.dll
+D:\Learn\C#\Tuan3 thuchanh\HoangNhatMinh_026_Ca1\HoangNhatMinh_026_Ca1\Bai7\bin\Debug\net5.0\ref\Bai7.dll
+D:\Learn\C#\Tuan3 thuchanh\HoangNhatMinh_026_Ca1\HoangNhatMinh_026_Ca1\Bai7\bin\Debug\net5.0\Bai7.pdb
+D:\Learn\C#\Tuan3 thuchanh\HoangNhatMinh_026_Ca1\HoangNhatMinh_026_Ca1\Bai7\obj\Debug\net5.0\Bai7.csproj.AssemblyReference.cache
+D:\Learn\C#\Tuan3 thuchanh\HoangNhatMinh_026_Ca1\HoangNhatMinh_026_Ca1\Bai7\obj\Debug\net5.0\Bai7.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learn\C#\Tuan3 thuchanh\HoangNhatMinh_026_Ca1\HoangNhatMinh_026_Ca1\Bai7\obj\Debug\net5.0\Bai7.AssemblyInfoInputs.cache
+D:\Learn\C#\Tuan3 thuchanh\HoangNhatMinh_026_Ca1\HoangNhatMinh_026_Ca1\Bai7\obj\Debug\net5.0\Bai7.AssemblyInfo.cs
+D:\Learn\C#\Tuan3 thuchanh\HoangNhatMinh_026_Ca1\HoangNhatMinh_026_Ca1\Bai7\obj\Debug\net5.0\Bai7.csproj.CoreCompileInputs.cache
+D:\Learn\C#\Tuan3 thuchanh\HoangNhatMinh_026_Ca1\HoangNhatMinh_026_Ca1\Bai7\obj\Debug\net5.0\Bai7.dll
+D:\Learn\C#\Tuan3 thuchanh\HoangNhatMinh_026_Ca1\HoangNhatMinh_026_Ca1\Bai7\obj\Debug\net5.0\ref\Bai7.dll
+D:\Learn\C#\Tuan3 thuchanh\HoangNhatMinh_026_Ca1\HoangNhatMinh_026_Ca1\Bai7\obj\Debug\net5.0\Bai7.pdb
+D:\Learn\C#\Tuan3 thuchanh\HoangNhatMinh_026_Ca1\HoangNhatMinh_026_Ca1\Bai7\obj\Debug\net5.0\Bai7.genruntimeconfig.cache

@@ -1,0 +1,15 @@
+D:\Learn\C#\Bai2\Bai2\Bai2\CauTruc\bin\Debug\net5.0\CauTruc.exe
+D:\Learn\C#\Bai2\Bai2\Bai2\CauTruc\bin\Debug\net5.0\CauTruc.deps.json
+D:\Learn\C#\Bai2\Bai2\Bai2\CauTruc\bin\Debug\net5.0\CauTruc.runtimeconfig.json
+D:\Learn\C#\Bai2\Bai2\Bai2\CauTruc\bin\Debug\net5.0\CauTruc.runtimeconfig.dev.json
+D:\Learn\C#\Bai2\Bai2\Bai2\CauTruc\bin\Debug\net5.0\CauTruc.dll
+D:\Learn\C#\Bai2\Bai2\Bai2\CauTruc\bin\Debug\net5.0\ref\CauTruc.dll
+D:\Learn\C#\Bai2\Bai2\Bai2\CauTruc\bin\Debug\net5.0\CauTruc.pdb
+D:\Learn\C#\Bai2\Bai2\Bai2\CauTruc\obj\Debug\net5.0\CauTruc.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learn\C#\Bai2\Bai2\Bai2\CauTruc\obj\Debug\net5.0\CauTruc.AssemblyInfoInputs.cache
+D:\Learn\C#\Bai2\Bai2\Bai2\CauTruc\obj\Debug\net5.0\CauTruc.AssemblyInfo.cs
+D:\Learn\C#\Bai2\Bai2\Bai2\CauTruc\obj\Debug\net5.0\CauTruc.csproj.CoreCompileInputs.cache
+D:\Learn\C#\Bai2\Bai2\Bai2\CauTruc\obj\Debug\net5.0\CauTruc.dll
+D:\Learn\C#\Bai2\Bai2\Bai2\CauTruc\obj\Debug\net5.0\ref\CauTruc.dll
+D:\Learn\C#\Bai2\Bai2\Bai2\CauTruc\obj\Debug\net5.0\CauTruc.pdb
+D:\Learn\C#\Bai2\Bai2\Bai2\CauTruc\obj\Debug\net5.0\CauTruc.genruntimeconfig.cache

@@ -1,0 +1,16 @@
+D:\Learn\C#\Bai1\CSharpCanBan\CSharpCanBan\tamgiac\bin\Debug\net5.0\tamgiac.exe
+D:\Learn\C#\Bai1\CSharpCanBan\CSharpCanBan\tamgiac\bin\Debug\net5.0\tamgiac.deps.json
+D:\Learn\C#\Bai1\CSharpCanBan\CSharpCanBan\tamgiac\bin\Debug\net5.0\tamgiac.runtimeconfig.json
+D:\Learn\C#\Bai1\CSharpCanBan\CSharpCanBan\tamgiac\bin\Debug\net5.0\tamgiac.runtimeconfig.dev.json
+D:\Learn\C#\Bai1\CSharpCanBan\CSharpCanBan\tamgiac\bin\Debug\net5.0\tamgiac.dll
+D:\Learn\C#\Bai1\CSharpCanBan\CSharpCanBan\tamgiac\bin\Debug\net5.0\ref\tamgiac.dll
+D:\Learn\C#\Bai1\CSharpCanBan\CSharpCanBan\tamgiac\bin\Debug\net5.0\tamgiac.pdb
+D:\Learn\C#\Bai1\CSharpCanBan\CSharpCanBan\tamgiac\obj\Debug\net5.0\tamgiac.csproj.AssemblyReference.cache
+D:\Learn\C#\Bai1\CSharpCanBan\CSharpCanBan\tamgiac\obj\Debug\net5.0\tamgiac.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learn\C#\Bai1\CSharpCanBan\CSharpCanBan\tamgiac\obj\Debug\net5.0\tamgiac.AssemblyInfoInputs.cache
+D:\Learn\C#\Bai1\CSharpCanBan\CSharpCanBan\tamgiac\obj\Debug\net5.0\tamgiac.AssemblyInfo.cs
+D:\Learn\C#\Bai1\CSharpCanBan\CSharpCanBan\tamgiac\obj\Debug\net5.0\tamgiac.csproj.CoreCompileInputs.cache
+D:\Learn\C#\Bai1\CSharpCanBan\CSharpCanBan\tamgiac\obj\Debug\net5.0\tamgiac.dll
+D:\Learn\C#\Bai1\CSharpCanBan\CSharpCanBan\tamgiac\obj\Debug\net5.0\ref\tamgiac.dll
+D:\Learn\C#\Bai1\CSharpCanBan\CSharpCanBan\tamgiac\obj\Debug\net5.0\tamgiac.pdb
+D:\Learn\C#\Bai1\CSharpCanBan\CSharpCanBan\tamgiac\obj\Debug\net5.0\tamgiac.genruntimeconfig.cache

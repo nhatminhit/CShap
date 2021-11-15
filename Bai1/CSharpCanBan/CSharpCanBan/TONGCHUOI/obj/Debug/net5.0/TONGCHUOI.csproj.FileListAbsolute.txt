@@ -1,0 +1,16 @@
+D:\Learn\C#\Bai1\CSharpCanBan\CSharpCanBan\TONGCHUOI\bin\Debug\net5.0\TONGCHUOI.exe
+D:\Learn\C#\Bai1\CSharpCanBan\CSharpCanBan\TONGCHUOI\bin\Debug\net5.0\TONGCHUOI.deps.json
+D:\Learn\C#\Bai1\CSharpCanBan\CSharpCanBan\TONGCHUOI\bin\Debug\net5.0\TONGCHUOI.runtimeconfig.json
+D:\Learn\C#\Bai1\CSharpCanBan\CSharpCanBan\TONGCHUOI\bin\Debug\net5.0\TONGCHUOI.runtimeconfig.dev.json
+D:\Learn\C#\Bai1\CSharpCanBan\CSharpCanBan\TONGCHUOI\bin\Debug\net5.0\TONGCHUOI.dll
+D:\Learn\C#\Bai1\CSharpCanBan\CSharpCanBan\TONGCHUOI\bin\Debug\net5.0\ref\TONGCHUOI.dll
+D:\Learn\C#\Bai1\CSharpCanBan\CSharpCanBan\TONGCHUOI\bin\Debug\net5.0\TONGCHUOI.pdb
+D:\Learn\C#\Bai1\CSharpCanBan\CSharpCanBan\TONGCHUOI\obj\Debug\net5.0\TONGCHUOI.csproj.AssemblyReference.cache
+D:\Learn\C#\Bai1\CSharpCanBan\CSharpCanBan\TONGCHUOI\obj\Debug\net5.0\TONGCHUOI.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learn\C#\Bai1\CSharpCanBan\CSharpCanBan\TONGCHUOI\obj\Debug\net5.0\TONGCHUOI.AssemblyInfoInputs.cache
+D:\Learn\C#\Bai1\CSharpCanBan\CSharpCanBan\TONGCHUOI\obj\Debug\net5.0\TONGCHUOI.AssemblyInfo.cs
+D:\Learn\C#\Bai1\CSharpCanBan\CSharpCanBan\TONGCHUOI\obj\Debug\net5.0\TONGCHUOI.csproj.CoreCompileInputs.cache
+D:\Learn\C#\Bai1\CSharpCanBan\CSharpCanBan\TONGCHUOI\obj\Debug\net5.0\TONGCHUOI.dll
+D:\Learn\C#\Bai1\CSharpCanBan\CSharpCanBan\TONGCHUOI\obj\Debug\net5.0\ref\TONGCHUOI.dll
+D:\Learn\C#\Bai1\CSharpCanBan\CSharpCanBan\TONGCHUOI\obj\Debug\net5.0\TONGCHUOI.pdb
+D:\Learn\C#\Bai1\CSharpCanBan\CSharpCanBan\TONGCHUOI\obj\Debug\net5.0\TONGCHUOI.genruntimeconfig.cache
