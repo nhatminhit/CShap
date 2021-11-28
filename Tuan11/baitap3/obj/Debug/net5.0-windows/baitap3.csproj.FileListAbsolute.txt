@@ -1,0 +1,5 @@
+D:\Learn\C#\Tuan11\baitap3\obj\Debug\net5.0-windows\MainWindow.g.cs
+D:\Learn\C#\Tuan11\baitap3\obj\Debug\net5.0-windows\App.g.cs
+D:\Learn\C#\Tuan11\baitap3\obj\Debug\net5.0-windows\baitap3_MarkupCompile.cache
+D:\Learn\C#\Tuan11\baitap3\obj\Debug\net5.0-windows\baitap3_MarkupCompile.lref
+D:\Learn\C#\Tuan11\baitap3\obj\Debug\net5.0-windows\baitap3.csproj.AssemblyReference.cache

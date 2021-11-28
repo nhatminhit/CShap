@@ -1,0 +1,16 @@
+D:\Learn\C#\Tuan11\baitap1\bin\Debug\net5.0\baitap1.exe
+D:\Learn\C#\Tuan11\baitap1\bin\Debug\net5.0\baitap1.deps.json
+D:\Learn\C#\Tuan11\baitap1\bin\Debug\net5.0\baitap1.runtimeconfig.json
+D:\Learn\C#\Tuan11\baitap1\bin\Debug\net5.0\baitap1.runtimeconfig.dev.json
+D:\Learn\C#\Tuan11\baitap1\bin\Debug\net5.0\baitap1.dll
+D:\Learn\C#\Tuan11\baitap1\bin\Debug\net5.0\ref\baitap1.dll
+D:\Learn\C#\Tuan11\baitap1\bin\Debug\net5.0\baitap1.pdb
+D:\Learn\C#\Tuan11\baitap1\obj\Debug\net5.0\baitap1.csproj.AssemblyReference.cache
+D:\Learn\C#\Tuan11\baitap1\obj\Debug\net5.0\baitap1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Learn\C#\Tuan11\baitap1\obj\Debug\net5.0\baitap1.AssemblyInfoInputs.cache
+D:\Learn\C#\Tuan11\baitap1\obj\Debug\net5.0\baitap1.AssemblyInfo.cs
+D:\Learn\C#\Tuan11\baitap1\obj\Debug\net5.0\baitap1.csproj.CoreCompileInputs.cache
+D:\Learn\C#\Tuan11\baitap1\obj\Debug\net5.0\baitap1.dll
+D:\Learn\C#\Tuan11\baitap1\obj\Debug\net5.0\ref\baitap1.dll
+D:\Learn\C#\Tuan11\baitap1\obj\Debug\net5.0\baitap1.pdb
+D:\Learn\C#\Tuan11\baitap1\obj\Debug\net5.0\baitap1.genruntimeconfig.cache

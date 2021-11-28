@@ -1,0 +1,79 @@
+﻿<Window x:Class="tuan10.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:tuan10"
+        mc:Ignorable="d"
+        Title="Quản lý sinh viên" Height="450" Width="800" FontSize="15" Loaded="Window_loaded_event" Icon="/icon2.png">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="22" />
+            <RowDefinition Height="30" />
+            <RowDefinition Height="*" />
+        </Grid.RowDefinitions>
+        <Menu x:Name="menu" Height="22" VerticalAlignment="Top" Background="LightBlue">
+            <MenuItem x:Name="menu1" Header="Hệ thống" />
+            <MenuItem x:Name="menu2" Header="Chức năng" />
+            <MenuItem x:Name="menu3" Header="Hỗ trợ" />
+        </Menu>
+        <StackPanel Orientation="Horizontal" Grid.Row="1" Width="800">
+            <ToolBar Height="32" x:Name="toolBar1" Width="800"  Background="#FFE2F8F8">
+                <Button Command="" ToolTip="Sinh viên">
+                    <StackPanel Orientation="Horizontal">
+                        <Image Width="30" Height="30" Source="/icon2.png" />
+                        <TextBlock Text="Sinh viên" VerticalAlignment="Center" Padding="0,5,5,5" />
+                    </StackPanel>
+                </Button>
+
+                <Button Command="" ToolTip="Sinh viên">
+                    <StackPanel Orientation="Horizontal">
+                        <Image Width="30" Height="30" Source="/icon2.png" />
+                        <TextBlock Text="Khoa" VerticalAlignment="Center" Padding="0,5,5,5" />
+                    </StackPanel>
+                </Button>
+
+                <Button Command="" ToolTip="Sinh viên">
+                    <StackPanel Orientation="Horizontal">
+                        <Image Width="30" Height="30" Source="/icon2.png" />
+                        <TextBlock Text="Môn học" VerticalAlignment="Center" Padding="0,5,5,5" />
+                    </StackPanel>
+                </Button>
+
+                <Button Command="" ToolTip="Sinh viên">
+                    <StackPanel Orientation="Horizontal">
+                        <Image Width="30" Height="30" Source="/icon2.png" />
+                        <TextBlock Text="Nhập điểm" VerticalAlignment="Center" Padding="0,5,5,5" />
+                    </StackPanel>
+                </Button>
+
+                <Button Command="" ToolTip="Sinh viên">
+                    <StackPanel Orientation="Horizontal">
+                        <Image Width="30" Height="30" Source="/icon2.png" />
+                        <TextBlock Text="Xem điểm" VerticalAlignment="Center" Padding="0,5,5,5" />
+                    </StackPanel>
+                </Button>
+
+                <Button Command="" ToolTip="Sinh viên">
+                    <StackPanel Orientation="Horizontal">
+                        <Image Width="30" Height="30" Source="/icon2.png" />
+                        <TextBlock Text="Thống kê khoa" VerticalAlignment="Center" Padding="0,5,5,5" />
+                    </StackPanel>
+                </Button>
+
+                <Button Command="" ToolTip="Sinh viên" Margin="50,0,0,0">
+                    <StackPanel Orientation="Horizontal">
+                        <Image Width="30" Height="30" Source="/icon2.png" />
+                        <TextBlock Text="Thoát" VerticalAlignment="Center" Padding="0,5,5,5" />
+                    </StackPanel>
+                </Button>
+            </ToolBar>
+        </StackPanel>
+        <Grid Grid.Row="2" Background="Gray">
+            <Grid.ColumnDefinitions>
+                <ColumnDefinition Width="61*"/>
+                <ColumnDefinition Width="99*"/>
+            </Grid.ColumnDefinitions>
+        </Grid>
+    </Grid>
+</Window>
